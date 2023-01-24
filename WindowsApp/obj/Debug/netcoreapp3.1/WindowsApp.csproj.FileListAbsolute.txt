@@ -1,0 +1,16 @@
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\bin\Debug\netcoreapp3.1\WindowsApp.exe
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\bin\Debug\netcoreapp3.1\WindowsApp.deps.json
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\bin\Debug\netcoreapp3.1\WindowsApp.runtimeconfig.json
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\bin\Debug\netcoreapp3.1\WindowsApp.runtimeconfig.dev.json
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\bin\Debug\netcoreapp3.1\WindowsApp.dll
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\bin\Debug\netcoreapp3.1\WindowsApp.pdb
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\obj\Debug\netcoreapp3.1\WindowsApp.Form1.resources
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\obj\Debug\netcoreapp3.1\WindowsApp.csproj.GenerateResource.cache
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\obj\Debug\netcoreapp3.1\WindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\obj\Debug\netcoreapp3.1\WindowsApp.AssemblyInfoInputs.cache
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\obj\Debug\netcoreapp3.1\WindowsApp.AssemblyInfo.cs
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\obj\Debug\netcoreapp3.1\WindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\obj\Debug\netcoreapp3.1\WindowsApp.dll
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\obj\Debug\netcoreapp3.1\WindowsApp.pdb
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\obj\Debug\netcoreapp3.1\WindowsApp.genruntimeconfig.cache
+C:\Users\tomas.arsenio\source\Repos\slnCursoNet\WindowsApp\obj\Debug\netcoreapp3.1\WindowsApp.csproj.AssemblyReference.cache
