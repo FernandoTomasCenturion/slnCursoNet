@@ -4,15 +4,10 @@ using System.Text;
 
 namespace WindowsApp.Entidades
 {
-    public class ClienteIndividuo
+    public class ClienteIndividuo : Persona
     {
-        public string Nombre;
-        public string Apellido;
-        public string CUIT;
-        public string Email;
-        public string Telefono;
-        public string Direccion;
 
+        public string CUIT { get; set;  }
 
         public ClienteIndividuo()
         {

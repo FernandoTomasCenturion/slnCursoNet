@@ -16,7 +16,7 @@ namespace WindowsApp.Entidades
         public string Categoria { get; set; }
         public string SubCategoria { get; set; }
         public decimal IVA { get; set; }
-
+        public string Subcategoria { get; internal set; }
 
         public Producto()
         {
